@@ -4,6 +4,13 @@ Use this tool to parse the IPv4 network range. Sometimes the client give us some
 
 # Installation
 
+Install both curl and wget.
+
+```
+wget https://raw.githubusercontent.com/0xhnl/subnet-parser/main/subnet-parser.py
+curl https://raw.githubusercontent.com/0xhnl/subnet-parser/main/subnet-parser.py -o subnet-parser.py
+```
+
 # Usage
 
 We can use it comma separated IPv4 subnet.
